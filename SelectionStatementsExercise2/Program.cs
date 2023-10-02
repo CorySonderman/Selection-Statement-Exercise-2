@@ -6,7 +6,7 @@ namespace SelectionStatementsExercise2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("What\'s your favorite subject in?");
+            Console.WriteLine("What\'s your favorite subject in school?");
             var subject  = (Console.ReadLine());
             Console.WriteLine();
             switch (subject)
